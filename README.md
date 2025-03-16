@@ -1,4 +1,4 @@
-![BYU-I Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Brigham_Young_University%E2%80%93Idaho_logo.svg/1200px-Brigham_Young_University%E2%80%93Idaho_logo.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Brigham_Young_University%E2%80%93Idaho_logo.svg/1200px-Brigham_Young_University%E2%80%93Idaho_logo.svg.png" alt="BYU Idaho Logo" width="500">
 
 # Bro. Dave Kidd Teaching Demo: DOM Manipulation
 
